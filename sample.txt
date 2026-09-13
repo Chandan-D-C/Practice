@@ -1,1 +1,2 @@
 Now this text are sample  file 
+Some conflict can occur on this so check once
