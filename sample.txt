@@ -1,1 +1,2 @@
 Now this text are sample  file 
+now i am adding this text merge conglict
