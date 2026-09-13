@@ -1,2 +1,4 @@
 Now this text are sample  file 
-Some conflict can occur on this so check once
+Some conflict can occur on this so check on
+now i am adding this text merge conglict
+
